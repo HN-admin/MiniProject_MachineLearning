@@ -15,3 +15,7 @@ Group members:
 2. For PPO control, run 3.1 and 3.2 together in both arduino and python, respectively.
 3. Both PPO and PID python codes are capable to interface with Node-RED using MQTT protocol.
 4. PPO need to be trained first before inference.
+
+**Note:**
+
+1. The PPO setup in 1.0 may not be optimized yet, adjust the parameters accordingly to achieve the best performance.
