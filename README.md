@@ -8,3 +8,9 @@ Group members:
 2. Muhammad Hafidzuddin Hanif Danial bin Norizal
 3. Shareen Arawie bin Hisham
 4. Muhammad Muhairis Bin Azman
+
+**Instruction:**
+
+1. For PID control, run 2.1 and 2.2 together in both arduino and python, respectively.
+2. For PPO control, run 3.1 and 3.2 together in both arduino and python, respectively.
+3. Both PPO and PID python codes are capable to interface with Node-RED using MQTT connection.
